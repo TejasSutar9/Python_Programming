@@ -1,2 +1,2 @@
 # Python_Programming
-Python programs demonstrating core concepts, problem solving, and basic scripting.
+A collection of Python programs covering fundamental concepts and logical problem-solving.
