@@ -120,42 +120,33 @@ python AutomatedDiskSanitizer.py "D:\TestFolder" 5
 
 ```
 __________________________________________________
-
-Duplicate File Automation Script
-
+Automated Disk Sanitizer
 __________________________________________________
 
 Scanning Directory : TestFolder
-
-Started At : Sat Aug 1 08:16:36 2026
+Started At : Sat Aug  1 10:55:31 2026
 
 __________________________________________________
-
 Duplicate Files
-
 __________________________________________________
+
+Original : TestFolder\beautiful-fall-nature-scenery-free-image.webp
+Deleted  : TestFolder\beautiful-fall-nature.webp
 
 Original : TestFolder\File1.txt
-
 Deleted  : TestFolder\File2.txt
 
-Original : TestFolder\Image.jpg
-
-Deleted  : TestFolder\ImageCopy.jpg
-
-__________________________________________________
-
-Total Files Scanned : 9
-
-Duplicate Groups    : 2
-
-Files Deleted       : 2
+Original : TestFolder\Folder1\Cet Result Tejas.pdf
+Deleted  : TestFolder\Folder1\Cet Result.pdf
 
 __________________________________________________
-
-Completed At : Sat Aug 1 08:16:36 2026
-
+Total Files Scanned : 10
+Duplicate Groups    : 3
+Files Deleted       : 3
 __________________________________________________
+Completed At : Sat Aug  1 10:55:31 2026
+__________________________________________________
+
 ```
 
 ---
@@ -167,13 +158,23 @@ __________________________________________________
 Duplicate File Automation Script
 ------------------------------------------------------------
 
-Scanning 'TestFolder' every 5 minute(s)...
+Scanning 'TestFolder' every 1 minute(s)...
 
 Press Ctrl + C to stop the automation.
 
-Log file created : DuplicateFileLog_Sat_Aug_01_08_16_36_2026.log
+Log file created : DuplicateFileLog_Sat_Aug_01_10_55_31_2026.log
 
-Total deleted files : 2
+Total deleted files : 3
+
+Log file created : DuplicateFileLog_Sat_Aug_01_10_56_31_2026.log
+
+Total deleted files : 0
+
+Automation stopped by user.
+------------------------------------------------------------
+Thank you for using Automated Disk Sanitizer
+------------------------------------------------------------
+
 ```
 
 ---
