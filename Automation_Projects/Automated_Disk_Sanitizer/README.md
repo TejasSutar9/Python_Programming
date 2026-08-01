@@ -124,7 +124,7 @@ Automated Disk Sanitizer
 __________________________________________________
 
 Scanning Directory : TestFolder
-Started At : Sat Aug  1 10:55:31 2026
+Started At : Sat Aug  1 11:37:05 2026
 
 __________________________________________________
 Duplicate Files
@@ -144,7 +144,7 @@ Total Files Scanned : 10
 Duplicate Groups    : 3
 Files Deleted       : 3
 __________________________________________________
-Completed At : Sat Aug  1 10:55:31 2026
+Completed At : Sat Aug  1 11:37:05 2026
 __________________________________________________
 
 ```
@@ -162,11 +162,11 @@ Scanning 'TestFolder' every 1 minute(s)...
 
 Press Ctrl + C to stop the automation.
 
-Log file created : DuplicateFileLog_Sat_Aug_01_10_55_31_2026.log
+Log file created : DuplicateFileLog_Sat_Aug_01_11_37_05_2026.log
 
 Total deleted files : 3
 
-Log file created : DuplicateFileLog_Sat_Aug_01_10_56_31_2026.log
+Log file created : DuplicateFileLog_Sat_Aug_01_11_38_06_2026.log
 
 Total deleted files : 0
 
