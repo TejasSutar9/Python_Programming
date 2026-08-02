@@ -207,6 +207,3 @@ Through this project, I learned:
 
 **Tejas Pradip Sutar**
 
----
-
-## ⭐ If you like this project, consider giving it a Star.
