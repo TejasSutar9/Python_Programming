@@ -251,7 +251,7 @@ This project helped me understand:
 
 ## 👨‍💻 Author
 
-**Tejas Sutar**
+**Tejas Pradip Sutar**
 
 
 
