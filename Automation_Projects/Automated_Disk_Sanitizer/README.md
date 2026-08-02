@@ -207,10 +207,6 @@ Through this project, I learned:
 
 **Tejas Pradip Sutar**
 
-GitHub: https://github.com/TejasSutar9
-
-LinkedIn: https://www.linkedin.com/in/tejas-sutar-890500389/
-
 ---
 
 ## ⭐ If you like this project, consider giving it a Star.
